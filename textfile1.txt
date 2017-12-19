@@ -1,3 +1,8 @@
 new text file added
 add decond line
+<<<<<<< HEAD
 added in local
+changes fine we can merge
+=======
+added in remote
+>>>>>>> a34692f165e13950195995321c053f18cfad8f96
