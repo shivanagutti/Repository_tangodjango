@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added line in local
+=======
+adding line in remote
+>>>>>>> 482427f8fd490f1d8845dd098170e5fdf82a0eb9
